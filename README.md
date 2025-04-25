@@ -1,4 +1,4 @@
-1- install pygame in you pc 
+1- install pygame in your pc 
 open CMD and write "pip install pygame"
 2-dowenload the code and run from checkers.py
 3-code will run
