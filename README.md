@@ -1,3 +1,5 @@
+Note 📒 : code not compolete yet
+
 1- install pygame in your pc 
 
 open CMD and write "pip install pygame"
