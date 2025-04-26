@@ -1,4 +1,4 @@
-Note 📒 : code not compolete yet
+Note 📒 : code not complete yet
 
 1- install pygame in your pc 
 
