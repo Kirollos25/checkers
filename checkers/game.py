@@ -5,7 +5,7 @@ from checkers.constants import BLUE, WHITE, RED, SQUARE_SIZE, WIDTH, HEIGHT, PLA
 from minimax.algorithm import minimax, clear_memo_table
 from minimax.alpha_beta import alpha_beta, clear_transposition_table
 
-USE_ALPHA_BETA = True  # Set to True to use alpha-beta pruning
+USE_ALPHA_BETA = True 
 
 class Game:
     def __init__(self, win, ai_game=True):
