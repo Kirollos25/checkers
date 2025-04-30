@@ -1,5 +1,7 @@
 Developed by BFCAI team , THE BEAST TEAM 😉🥇❤
 
+To enjoy with Cheackers game you should ⬇
+
 1- install pygame in your pc 
 
 open CMD and write "pip install pygame"
