@@ -1,4 +1,4 @@
-checkers Gmae (college project)
+checkers Gmae
 
 Developed by BFCAI team , THE BEAST TEAM 😉🥇❤
 
