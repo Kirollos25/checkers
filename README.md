@@ -1,3 +1,5 @@
+checkers Gmae (college project)
+
 Developed by BFCAI team , THE BEAST TEAM 😉🥇❤
 
 To enjoy with Cheackers game you should ⬇
